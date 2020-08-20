@@ -6,3 +6,5 @@
 - Credit Card Fraud Detection Practice with researchgate.net project
 
 - Types of Fruit Classifier from fruits dataset created by Dr. Iain Murray from University of Edinburgh
+
+- Boston Housing Regression
