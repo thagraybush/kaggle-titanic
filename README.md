@@ -8,3 +8,5 @@
 - Types of Fruit Classifier from fruits dataset created by Dr. Iain Murray from University of Edinburgh
 
 - Boston Housing Regression
+
+- Telco Customer Churn
