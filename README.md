@@ -10,3 +10,5 @@
 - Boston Housing Regression
 
 - Telco Customer Churn Model
+
+- Customer Propensity to Purchase
