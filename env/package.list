@@ -1,0 +1,15 @@
+atom-file-icons@0.7.1
+atom-ide-ui@0.13.0
+atom-material-syntax@1.0.8
+autocomplete-python@1.11.0
+ide-python@1.2.0
+jupyter-notebook@0.0.10
+kite@0.204.0
+linter@3.3.0
+linter-flake8@2.4.0
+minimap@4.39.9
+minimap-git-diff@4.3.6
+minimap-highlight-selected@4.6.5
+pg-formatter@0.0.1
+python-linters@0.0.5
+script@3.29.3
